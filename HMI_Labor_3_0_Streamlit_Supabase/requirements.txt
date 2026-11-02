@@ -1,0 +1,4 @@
+streamlit>=1.39,<2
+requests>=2.31,<3
+qrcode[pil]>=7.4,<9
+pandas>=2.1,<3
